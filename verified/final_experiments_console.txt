@@ -1,0 +1,271 @@
+== duplicates (0.5s)
+{
+ "corpus_fallback_False": {
+  "TP": 11,
+  "FP": 0
+ },
+ "corpus_fallback_True": {
+  "TP": 14,
+  "FP": 0
+ },
+ "near_duplicates": {
+  "name_misspelled": {
+   "exact+fallback": {
+    "TP": 3,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 12
+   },
+   "exact+fallback+fuzzy": {
+    "TP": 14,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 12
+   }
+  },
+  "name_legal_form_dropped": {
+   "exact+fallback": {
+    "TP": 14,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 8
+   },
+   "exact+fallback+fuzzy": {
+    "TP": 14,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 8
+   }
+  },
+  "amount_rounded_to_unit": {
+   "exact+fallback": {
+    "TP": 0,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 14
+   },
+   "exact+fallback+fuzzy": {
+    "TP": 14,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 14
+   }
+  },
+  "date_shifted_one_day": {
+   "exact+fallback": {
+    "TP": 0,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 14
+   },
+   "exact+fallback+fuzzy": {
+    "TP": 14,
+    "FP": 0,
+    "n": 14,
+    "perturbed": 14
+   }
+  }
+ },
+ "overlap_and_repeat": {
+  "overlap_injected": 82,
+  "overlap_found": 82,
+  "overlap_labelled_overlap": 82,
+  "repeat_injected": 10,
+  "repeat_found": 10,
+  "repeat_labelled_repeat": 10,
+  "legitimate_repeats_removed": 0
+ }
+}
+== routes (0.5s)
+{
+ "candidate_links": 2279,
+ "without_next_statement": 2279,
+ "w_quantiles": {
+  "q10": 0.08309927485744034,
+  "q50": 0.2643223063813831,
+  "q90": 0.4986642250633219
+ },
+ "share_w_ge_075": 0.004387889425186486,
+ "sensitivity": [
+  {
+   "w": [
+    0.4,
+    0.4,
+    0.2
+   ],
+   "beta": 3,
+   "kendall_tau": 0.9198386690194101,
+   "top10_overlap": 0.8810572687224669
+  },
+  {
+   "w": [
+    0.4,
+    0.4,
+    0.2
+   ],
+   "beta": 7,
+   "kendall_tau": 1.0,
+   "top10_overlap": 1.0
+  },
+  {
+   "w": [
+    0.4,
+    0.4,
+    0.2
+   ],
+   "beta": 14,
+   "kendall_tau": 0.9410133602218301,
+   "top10_overlap": 0.8458149779735683
+  },
+  {
+   "w": [
+    0.333,
+    0.333,
+    0.333
+   ],
+   "beta": 3,
+   "kendall_tau": 0.9001764557600201,
+   "top10_overlap": 0.8061674008810573
+  },
+  {
+   "w": [
+    0.333,
+    0.333,
+    0.333
+   ],
+   "beta": 7,
+   "kendall_tau": 0.9747920342828333,
+   "top10_overlap": 0.9030837004405287
+  },
+  {
+   "w": [
+    0.333,
+    0.333,
+    0.333
+   ],
+   "beta": 14,
+   "kendall_tau": 0.9153012351903201,
+   "top10_overlap": 0.8414096916299559
+  },
+  {
+   "w": [
+    0.5,
+    0.3,
+    0.2
+   ],
+   "beta": 3,
+   "kendall_tau": 0.8764809679858835,
+   "top10_overlap": 0.788546255506608
+  },
+  {
+   "w": [
+    0.5,
+    0.3,
+    0.2
+   ],
+   "beta": 7,
+   "kendall_tau": 0.8936223846735568,
+   "top10_overlap": 0.7929515418502202
+  },
+  {
+   "w": [
+    0.5,
+    0.3,
+    0.2
+   ],
+   "beta": 14,
+   "kendall_tau": 0.8497605243256869,
+   "top10_overlap": 0.7048458149779736
+  },
+  {
+   "w": [
+    0.3,
+    0.5,
+    0.2
+   ],
+   "beta": 3,
+   "kendall_tau": 0.8895891101588101,
+   "top10_overlap": 0.6563876651982379
+  },
+  {
+   "w": [
+    0.3,
+    0.5,
+    0.2
+   ],
+   "beta": 7,
+   "kendall_tau": 0.8583312326695236,
+   "top10_overlap": 0.8414096916299559
+  },
+  {
+   "w": [
+    0.3,
+    0.5,
+    0.2
+   ],
+   "beta": 14,
+   "kendall_tau": 0.9178220317620368,
+   "top10_overlap": 0.9559471365638766
+  },
+  {
+   "w": [
+    0.5,
+    0.5,
+    0.0
+   ],
+   "beta": 3,
+   "kendall_tau": 0.893515013878375,
+   "top10_overlap": 0.8370044052863436
+  },
+  {
+   "w": [
+    0.5,
+    0.5,
+    0.0
+   ],
+   "beta": 7,
+   "kendall_tau": 0.9646732273530154,
+   "top10_overlap": 0.8942731277533039
+  },
+  {
+   "w": [
+    0.5,
+    0.5,
+    0.0
+   ],
+   "beta": 14,
+   "kendall_tau": 0.90815039111784,
+   "top10_overlap": 0.788546255506608
+  },
+  {
+   "w": [
+    0.45,
+    0.45,
+    0.1
+   ],
+   "beta": 3,
+   "kendall_tau": 0.9127804386186035,
+   "top10_overlap": 0.8766519823788547
+  },
+  {
+   "w": [
+    0.45,
+    0.45,
+    0.1
+   ],
+   "beta": 7,
+   "kendall_tau": 0.9823544239979833,
+   "top10_overlap": 0.9427312775330396
+  },
+  {
+   "w": [
+    0.45,
+    0.45,
+    0.1
+   ],
+   "beta": 14,
+   "kendall_tau": 0.9294176959919335,
+   "top10_overlap": 0.8149779735682819
+  }
+ ]
+}

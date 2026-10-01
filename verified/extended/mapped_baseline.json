@@ -1,0 +1,9 @@
+{
+  "rows": 1200,
+  "rows_identical_to_full_on_source_fields": 1200,
+  "rows_with_source_lineage": 1200,
+  "qc_candidates": 0,
+  "hash_verification": false,
+  "source_row_retention": true,
+  "provenance": "shared parser and mapping rules; omits QC and hash control"
+}

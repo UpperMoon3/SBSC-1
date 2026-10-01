@@ -1,0 +1,112 @@
+[
+  {
+    "config": "full",
+    "detected": 55,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.9649122807017544,
+    "T": 1.0,
+    "visible": 57,
+    "visible_and_traceable": 57,
+    "tamper_detected": true
+  },
+  {
+    "config": "without hash",
+    "detected": 55,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.9649122807017544,
+    "T": 1.0,
+    "visible": 57,
+    "visible_and_traceable": 57,
+    "tamper_detected": false
+  },
+  {
+    "config": "without reconciliation",
+    "detected": 41,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.7192982456140351,
+    "T": 1.0,
+    "visible": 41,
+    "visible_and_traceable": 41,
+    "tamper_detected": true
+  },
+  {
+    "config": "without duplicates",
+    "detected": 41,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.7192982456140351,
+    "T": 1.0,
+    "visible": 43,
+    "visible_and_traceable": 43,
+    "tamper_detected": true
+  },
+  {
+    "config": "without currency",
+    "detected": 49,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.8596491228070176,
+    "T": 1.0,
+    "visible": 51,
+    "visible_and_traceable": 51,
+    "tamper_detected": true
+  },
+  {
+    "config": "without lineage",
+    "detected": 55,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.9649122807017544,
+    "T": 0.0,
+    "visible": 57,
+    "visible_and_traceable": 0,
+    "tamper_detected": true
+  },
+  {
+    "config": "without defect_log",
+    "detected": 55,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.9649122807017544,
+    "T": 1.0,
+    "visible": 51,
+    "visible_and_traceable": 51,
+    "tamper_detected": true
+  },
+  {
+    "config": "without lineage and defect_log",
+    "detected": 55,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.9649122807017544,
+    "T": 0.0,
+    "visible": 51,
+    "visible_and_traceable": 0,
+    "tamper_detected": true
+  },
+  {
+    "config": "without reconciliation and duplicates",
+    "detected": 27,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.47368421052631576,
+    "T": 1.0,
+    "visible": 27,
+    "visible_and_traceable": 27,
+    "tamper_detected": true
+  },
+  {
+    "config": "without hash and lineage",
+    "detected": 55,
+    "injected": 57,
+    "FP": 0,
+    "rate": 0.9649122807017544,
+    "T": 0.0,
+    "visible": 57,
+    "visible_and_traceable": 0,
+    "tamper_detected": false
+  }
+]

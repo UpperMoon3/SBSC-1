@@ -1,0 +1,178 @@
+{
+  "alignment_problems": [],
+  "rows": 1200,
+  "files": 30,
+  "traceability_T": 1.0,
+  "hash_coverage": 30,
+  "coverage": {
+    "client_code": 1.0,
+    "client_identifier": 1.0,
+    "client_account": 1.0,
+    "statement_period": 1.0,
+    "operation_date": 1.0,
+    "direction": 1.0,
+    "amount": 1.0,
+    "currency": 1.0,
+    "balance_after": 0.7991666666666667,
+    "category": 0.8233333333333334,
+    "subcategory": 0.7016666666666667,
+    "counterparty_name": 0.93,
+    "counterparty_identifier": 0.5725,
+    "counterparty_account_or_channel": 0.7591666666666667,
+    "counterparty_type": 0.8825
+  },
+  "value_agreement": {
+    "client_code": 1.0,
+    "client_identifier": 1.0,
+    "client_account": 1.0,
+    "statement_period": 1.0,
+    "operation_date": 1.0,
+    "direction": 1.0,
+    "amount": 1.0,
+    "currency": 1.0,
+    "balance_after": 1.0,
+    "category": 1.0,
+    "subcategory": 1.0,
+    "counterparty_name": 1.0,
+    "counterparty_identifier": 1.0,
+    "counterparty_account_or_channel": 1.0,
+    "counterparty_type": 1.0
+  },
+  "reconciliation": {
+    "scorable": 947,
+    "unreconcilable": 253,
+    "exceeding": 16,
+    "accounts_exceeding": 5,
+    "q50": 0.0,
+    "q90": 0.0,
+    "q99": 0.95
+  },
+  "chronology_violations": 0,
+  "detection": {
+    "DUPLICATE_ROW": {
+      "injected": 14,
+      "TP": 14,
+      "FP": 0,
+      "FN": 0,
+      "P": 1.0,
+      "R": 1.0,
+      "F1": 1.0,
+      "R_CI": [
+        0.7846891971830681,
+        1.0
+      ]
+    },
+    "DIRECTION_INCONSISTENCY": {
+      "injected": 9,
+      "TP": 7,
+      "FP": 0,
+      "FN": 2,
+      "P": 1.0,
+      "R": 0.7777777777777778,
+      "F1": 0.8750000000000001,
+      "R_CI": [
+        0.45258896903514745,
+        0.9367748928993278
+      ]
+    },
+    "BALANCE_INCONSISTENCY": {
+      "injected": 7,
+      "TP": 7,
+      "FP": 0,
+      "FN": 0,
+      "P": 1.0,
+      "R": 1.0,
+      "F1": 1.0,
+      "R_CI": [
+        0.6456695648259365,
+        1.0
+      ]
+    },
+    "INCOMPLETE_COUNTERPARTY": {
+      "injected": 11,
+      "TP": 11,
+      "FP": 0,
+      "FN": 0,
+      "P": 1.0,
+      "R": 1.0,
+      "F1": 1.0,
+      "R_CI": [
+        0.7411670329419306,
+        1.0
+      ]
+    },
+    "CURRENCY_MIXING": {
+      "injected": 6,
+      "TP": 6,
+      "FP": 0,
+      "FN": 0,
+      "P": 1.0,
+      "R": 1.0,
+      "F1": 1.0,
+      "R_CI": [
+        0.6096657119861439,
+        1.0
+      ]
+    },
+    "UNPARSED_LAYOUT": {
+      "injected": 4,
+      "TP": 4,
+      "FP": 0,
+      "FN": 0,
+      "P": 1.0,
+      "R": 1.0,
+      "F1": 1.0,
+      "R_CI": [
+        0.5101091634281154,
+        1.0
+      ]
+    },
+    "UNMAPPED_FIELD": {
+      "injected": 6,
+      "TP": 6,
+      "FP": 0,
+      "FN": 0,
+      "P": 1.0,
+      "R": 1.0,
+      "F1": 1.0,
+      "R_CI": [
+        0.6096657119861439,
+        1.0
+      ]
+    }
+  },
+  "micro": {
+    "injected": 57,
+    "TP": 55,
+    "FP": 0,
+    "FN": 2,
+    "P": 1.0,
+    "R": 0.9649122807017544,
+    "F1": 0.9821428571428572,
+    "R_CI": [
+      0.8807921862953352,
+      0.9903243356576594
+    ]
+  },
+  "unreachable_direction": {
+    "injected": 2,
+    "reported_as_unreachable": 2
+  },
+  "visible": 57,
+  "visible_and_traceable": 57,
+  "integrity_failures": [],
+  "defect_log_size": 548,
+  "defect_codes": {
+    "LAYOUT_OBSTACLE": 4,
+    "NON_TRANSACTION_ROW": 1,
+    "NO_BALANCE_FIELD": 253,
+    "SIGN_RESIDUAL": 7,
+    "BALANCE_RESIDUAL": 9,
+    "DUP_CANDIDATE_REPEAT": 14,
+    "CP_INCOMPLETE": 11,
+    "UNMAPPED_VALUE": 6,
+    "CURRENCY_NOT_STATED": 237,
+    "FOREIGN_CURRENCY_ROW": 6
+  },
+  "elapsed_s": 0.24528604198712856
+}

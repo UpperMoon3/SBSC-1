@@ -1,0 +1,58 @@
+defect_id,defect_class,level,source_file_id,journal_index,detail
+D001,BALANCE_INCONSISTENCY,row,F003,108,carried_forward; printed balance drifts by 1.45 from this row to the end of the account
+D002,BALANCE_INCONSISTENCY,row,F006,210,carried_forward; printed balance drifts by 0.87 from this row to the end of the account
+D003,BALANCE_INCONSISTENCY,row,F008,299,carried_forward; printed balance drifts by 0.66 from this row to the end of the account
+D004,BALANCE_INCONSISTENCY,row,F012,466,isolated; single printed balance cell offset by 0.4
+D005,BALANCE_INCONSISTENCY,row,F013,503,carried_forward; printed balance drifts by 1.2 from this row to the end of the account
+D006,BALANCE_INCONSISTENCY,row,F015,597,carried_forward; printed balance drifts by 0.95 from this row to the end of the account
+D007,BALANCE_INCONSISTENCY,row,F003,88,isolated; single printed balance cell offset by 0.5
+D008,CURRENCY_MIXING,row,F012,450,row is in EUR; sheet has no currency column and is otherwise KZT
+D009,CURRENCY_MIXING,row,F012,456,row is in USD; sheet has no currency column and is otherwise KZT
+D010,CURRENCY_MIXING,row,F012,476,row is in USD; sheet has no currency column and is otherwise KZT
+D011,CURRENCY_MIXING,row,F013,491,row is in EUR; sheet has no currency column and is otherwise KZT
+D012,CURRENCY_MIXING,row,F003,82,row is in USD; sheet has no currency column and is otherwise KZT
+D013,CURRENCY_MIXING,row,F025,991,row is in EUR; sheet has no currency column and is otherwise KZT
+D014,DIRECTION_INCONSISTENCY,row,F003,111,sign inverted in the file
+D015,DIRECTION_INCONSISTENCY,row,F006,208,sign inverted in the file
+D016,DIRECTION_INCONSISTENCY,row,F007,276,sign inverted in the file
+D017,DIRECTION_INCONSISTENCY,row,F011,439,undetectable by reconciliation: no balance column
+D018,DIRECTION_INCONSISTENCY,row,F013,504,sign inverted in the file
+D019,DIRECTION_INCONSISTENCY,row,F013,516,sign inverted in the file
+D020,DIRECTION_INCONSISTENCY,row,F015,608,sign inverted in the file
+D021,DIRECTION_INCONSISTENCY,row,F003,84,sign inverted in the file
+D022,DIRECTION_INCONSISTENCY,row,F023,907,undetectable by reconciliation: no balance column
+D023,DUPLICATE_ROW,row,F003,104,copy of journal index 103
+D024,DUPLICATE_ROW,row,F028,1112,copy of journal index 1111
+D025,DUPLICATE_ROW,row,F006,212,copy of journal index 211
+D026,DUPLICATE_ROW,row,F009,332,copy of journal index 331
+D027,DUPLICATE_ROW,row,F009,340,copy of journal index 339
+D028,DUPLICATE_ROW,row,F012,483,copy of journal index 482
+D029,DUPLICATE_ROW,row,F013,493,copy of journal index 492
+D030,DUPLICATE_ROW,row,F014,545,copy of journal index 544
+D031,DUPLICATE_ROW,row,F015,601,copy of journal index 600
+D032,DUPLICATE_ROW,row,F016,630,copy of journal index 629
+D033,DUPLICATE_ROW,row,F017,677,copy of journal index 676
+D034,DUPLICATE_ROW,row,F019,760,copy of journal index 759
+D035,DUPLICATE_ROW,row,F003,91,copy of journal index 90
+D036,DUPLICATE_ROW,row,F025,986,copy of journal index 985
+D037,INCOMPLETE_COUNTERPARTY,row,F029,1140,name and identifier both blank
+D038,INCOMPLETE_COUNTERPARTY,row,F029,1150,name and identifier both blank
+D039,INCOMPLETE_COUNTERPARTY,row,F004,140,name and identifier both blank
+D040,INCOMPLETE_COUNTERPARTY,row,F005,184,name and identifier both blank; channel token retained
+D041,INCOMPLETE_COUNTERPARTY,row,F005,198,name and identifier both blank; channel token retained
+D042,INCOMPLETE_COUNTERPARTY,row,F009,334,name and identifier both blank
+D043,INCOMPLETE_COUNTERPARTY,row,F017,671,name and identifier both blank
+D044,INCOMPLETE_COUNTERPARTY,row,F018,700,name and identifier both blank
+D045,INCOMPLETE_COUNTERPARTY,row,F023,896,name and identifier both blank
+D046,INCOMPLETE_COUNTERPARTY,row,F023,919,name and identifier both blank
+D047,INCOMPLETE_COUNTERPARTY,row,F003,95,name and identifier both blank
+D048,UNMAPPED_FIELD,row,F029,1135,value present in an unlabelled trailing column
+D049,UNMAPPED_FIELD,row,F009,324,value present in an unlabelled trailing column
+D050,UNMAPPED_FIELD,row,F014,564,value present in an unlabelled trailing column
+D051,UNMAPPED_FIELD,row,F021,825,value present in an unlabelled trailing column
+D052,UNMAPPED_FIELD,row,F021,837,value present in an unlabelled trailing column
+D053,UNMAPPED_FIELD,row,F025,990,value present in an unlabelled trailing column
+D054,UNPARSED_LAYOUT,file,F005,,metadata_preamble
+D055,UNPARSED_LAYOUT,file,F028,,summary_rows_before_table
+D056,UNPARSED_LAYOUT,file,F022,,two_row_header
+D057,UNPARSED_LAYOUT,file,F010,,trailing_totals_block

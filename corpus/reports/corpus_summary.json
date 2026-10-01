@@ -1,0 +1,30 @@
+{
+  "corpus_id": "SBSC-1",
+  "generator_version": "sbsc-1.1.0",
+  "seed": 20260824,
+  "statement_files": 30,
+  "distinct_source_layouts": 15,
+  "synthetic_issuers": 3,
+  "normalized_transactions": 1200,
+  "account_holders": 12,
+  "counterparties": 187,
+  "currencies": [
+    "KZT",
+    "USD",
+    "EUR"
+  ],
+  "period_months": 6,
+  "injected_defects": {
+    "DUPLICATE_ROW": 14,
+    "BALANCE_INCONSISTENCY": 7,
+    "DIRECTION_INCONSISTENCY": 9,
+    "INCOMPLETE_COUNTERPARTY": 11,
+    "CURRENCY_MIXING": 6,
+    "UNMAPPED_FIELD": 6,
+    "UNPARSED_LAYOUT": 4
+  },
+  "injected_defects_total": 57,
+  "row_level_defects": 53,
+  "file_level_defects": 4,
+  "rows_with_balance_field": 959
+}

@@ -1,0 +1,2222 @@
+{
+  "values": {
+    "SUBJ-001": {
+      "HHI": 0.02648358053478386,
+      "rounded": 0.0,
+      "transit": 0.4063453988965931,
+      "asset": 0.3069446508915336,
+      "shared": 0.23140495867768596
+    },
+    "SUBJ-004": {
+      "HHI": 0.034058435227235014,
+      "rounded": 0.0,
+      "transit": 0.5241030117021557,
+      "asset": 0.2732577645559574,
+      "shared": 0.2033898305084746
+    },
+    "SUBJ-007": {
+      "HHI": 0.04363983887838563,
+      "rounded": 0.0,
+      "transit": 0.26438704790814155,
+      "asset": 0.28848819556075156,
+      "shared": 0.13793103448275862
+    },
+    "SUBJ-010": {
+      "HHI": 0.04207964396451179,
+      "rounded": 0.0,
+      "transit": 0.3841547152088925,
+      "asset": 0.38033192353870554,
+      "shared": 0.19230769230769232
+    },
+    "SUBJ-002": {
+      "HHI": 0.043358441163977794,
+      "rounded": 0.0,
+      "transit": 0.3479900778968881,
+      "asset": 0.5367254982109729,
+      "shared": 0.22608695652173913
+    },
+    "SUBJ-005": {
+      "HHI": 0.02260101472887817,
+      "rounded": 0.0,
+      "transit": 0.46264130355226785,
+      "asset": 0.16709191276871357,
+      "shared": 0.20408163265306123
+    },
+    "SUBJ-008": {
+      "HHI": 0.051430872907919374,
+      "rounded": 0.0,
+      "transit": 0.21839869753738148,
+      "asset": 0.47793306617189535,
+      "shared": 0.16071428571428573
+    },
+    "SUBJ-011": {
+      "HHI": 0.054708397192003086,
+      "rounded": 0.0,
+      "transit": 0.5109389527993612,
+      "asset": 0.4189789037724094,
+      "shared": 0.21568627450980393
+    },
+    "SUBJ-003": {
+      "HHI": 0.027985578902628164,
+      "rounded": 0.0,
+      "transit": 0.7117765772144261,
+      "asset": 0.4692158501998237,
+      "shared": 0.22608695652173913
+    },
+    "SUBJ-006": {
+      "HHI": 0.042812648994596525,
+      "rounded": 0.0,
+      "transit": 0.723675485087021,
+      "asset": 0.5944512313912104,
+      "shared": 0.23140495867768596
+    },
+    "SUBJ-009": {
+      "HHI": 0.05348113764315681,
+      "rounded": 0.0,
+      "transit": 0.4200919423821999,
+      "asset": 0.42792568770039374,
+      "shared": 0.1511627906976744
+    },
+    "SUBJ-012": {
+      "HHI": 0.05238493196956307,
+      "rounded": 0.0,
+      "transit": 0.2749942760447303,
+      "asset": 0.3123546595921542,
+      "shared": 0.20408163265306123
+    }
+  },
+  "sweep": {
+    "HHI": [
+      {
+        "theta": 0.0,
+        "flagged": 12
+      },
+      {
+        "theta": 0.01,
+        "flagged": 12
+      },
+      {
+        "theta": 0.02,
+        "flagged": 12
+      },
+      {
+        "theta": 0.03,
+        "flagged": 9
+      },
+      {
+        "theta": 0.04,
+        "flagged": 8
+      },
+      {
+        "theta": 0.05,
+        "flagged": 4
+      },
+      {
+        "theta": 0.06,
+        "flagged": 0
+      },
+      {
+        "theta": 0.07,
+        "flagged": 0
+      },
+      {
+        "theta": 0.08,
+        "flagged": 0
+      },
+      {
+        "theta": 0.09,
+        "flagged": 0
+      },
+      {
+        "theta": 0.1,
+        "flagged": 0
+      },
+      {
+        "theta": 0.11,
+        "flagged": 0
+      },
+      {
+        "theta": 0.12,
+        "flagged": 0
+      },
+      {
+        "theta": 0.13,
+        "flagged": 0
+      },
+      {
+        "theta": 0.14,
+        "flagged": 0
+      },
+      {
+        "theta": 0.15,
+        "flagged": 0
+      },
+      {
+        "theta": 0.16,
+        "flagged": 0
+      },
+      {
+        "theta": 0.17,
+        "flagged": 0
+      },
+      {
+        "theta": 0.18,
+        "flagged": 0
+      },
+      {
+        "theta": 0.19,
+        "flagged": 0
+      },
+      {
+        "theta": 0.2,
+        "flagged": 0
+      },
+      {
+        "theta": 0.21,
+        "flagged": 0
+      },
+      {
+        "theta": 0.22,
+        "flagged": 0
+      },
+      {
+        "theta": 0.23,
+        "flagged": 0
+      },
+      {
+        "theta": 0.24,
+        "flagged": 0
+      },
+      {
+        "theta": 0.25,
+        "flagged": 0
+      },
+      {
+        "theta": 0.26,
+        "flagged": 0
+      },
+      {
+        "theta": 0.27,
+        "flagged": 0
+      },
+      {
+        "theta": 0.28,
+        "flagged": 0
+      },
+      {
+        "theta": 0.29,
+        "flagged": 0
+      },
+      {
+        "theta": 0.3,
+        "flagged": 0
+      },
+      {
+        "theta": 0.31,
+        "flagged": 0
+      },
+      {
+        "theta": 0.32,
+        "flagged": 0
+      },
+      {
+        "theta": 0.33,
+        "flagged": 0
+      },
+      {
+        "theta": 0.34,
+        "flagged": 0
+      },
+      {
+        "theta": 0.35,
+        "flagged": 0
+      },
+      {
+        "theta": 0.36,
+        "flagged": 0
+      },
+      {
+        "theta": 0.37,
+        "flagged": 0
+      },
+      {
+        "theta": 0.38,
+        "flagged": 0
+      },
+      {
+        "theta": 0.39,
+        "flagged": 0
+      },
+      {
+        "theta": 0.4,
+        "flagged": 0
+      },
+      {
+        "theta": 0.41,
+        "flagged": 0
+      },
+      {
+        "theta": 0.42,
+        "flagged": 0
+      },
+      {
+        "theta": 0.43,
+        "flagged": 0
+      },
+      {
+        "theta": 0.44,
+        "flagged": 0
+      },
+      {
+        "theta": 0.45,
+        "flagged": 0
+      },
+      {
+        "theta": 0.46,
+        "flagged": 0
+      },
+      {
+        "theta": 0.47,
+        "flagged": 0
+      },
+      {
+        "theta": 0.48,
+        "flagged": 0
+      },
+      {
+        "theta": 0.49,
+        "flagged": 0
+      },
+      {
+        "theta": 0.5,
+        "flagged": 0
+      },
+      {
+        "theta": 0.51,
+        "flagged": 0
+      },
+      {
+        "theta": 0.52,
+        "flagged": 0
+      },
+      {
+        "theta": 0.53,
+        "flagged": 0
+      },
+      {
+        "theta": 0.54,
+        "flagged": 0
+      },
+      {
+        "theta": 0.55,
+        "flagged": 0
+      },
+      {
+        "theta": 0.56,
+        "flagged": 0
+      },
+      {
+        "theta": 0.57,
+        "flagged": 0
+      },
+      {
+        "theta": 0.58,
+        "flagged": 0
+      },
+      {
+        "theta": 0.59,
+        "flagged": 0
+      },
+      {
+        "theta": 0.6,
+        "flagged": 0
+      },
+      {
+        "theta": 0.61,
+        "flagged": 0
+      },
+      {
+        "theta": 0.62,
+        "flagged": 0
+      },
+      {
+        "theta": 0.63,
+        "flagged": 0
+      },
+      {
+        "theta": 0.64,
+        "flagged": 0
+      },
+      {
+        "theta": 0.65,
+        "flagged": 0
+      },
+      {
+        "theta": 0.66,
+        "flagged": 0
+      },
+      {
+        "theta": 0.67,
+        "flagged": 0
+      },
+      {
+        "theta": 0.68,
+        "flagged": 0
+      },
+      {
+        "theta": 0.69,
+        "flagged": 0
+      },
+      {
+        "theta": 0.7,
+        "flagged": 0
+      },
+      {
+        "theta": 0.71,
+        "flagged": 0
+      },
+      {
+        "theta": 0.72,
+        "flagged": 0
+      },
+      {
+        "theta": 0.73,
+        "flagged": 0
+      },
+      {
+        "theta": 0.74,
+        "flagged": 0
+      },
+      {
+        "theta": 0.75,
+        "flagged": 0
+      },
+      {
+        "theta": 0.76,
+        "flagged": 0
+      },
+      {
+        "theta": 0.77,
+        "flagged": 0
+      },
+      {
+        "theta": 0.78,
+        "flagged": 0
+      },
+      {
+        "theta": 0.79,
+        "flagged": 0
+      },
+      {
+        "theta": 0.8,
+        "flagged": 0
+      },
+      {
+        "theta": 0.81,
+        "flagged": 0
+      },
+      {
+        "theta": 0.82,
+        "flagged": 0
+      },
+      {
+        "theta": 0.83,
+        "flagged": 0
+      },
+      {
+        "theta": 0.84,
+        "flagged": 0
+      },
+      {
+        "theta": 0.85,
+        "flagged": 0
+      },
+      {
+        "theta": 0.86,
+        "flagged": 0
+      },
+      {
+        "theta": 0.87,
+        "flagged": 0
+      },
+      {
+        "theta": 0.88,
+        "flagged": 0
+      },
+      {
+        "theta": 0.89,
+        "flagged": 0
+      },
+      {
+        "theta": 0.9,
+        "flagged": 0
+      },
+      {
+        "theta": 0.91,
+        "flagged": 0
+      },
+      {
+        "theta": 0.92,
+        "flagged": 0
+      },
+      {
+        "theta": 0.93,
+        "flagged": 0
+      },
+      {
+        "theta": 0.94,
+        "flagged": 0
+      },
+      {
+        "theta": 0.95,
+        "flagged": 0
+      },
+      {
+        "theta": 0.96,
+        "flagged": 0
+      },
+      {
+        "theta": 0.97,
+        "flagged": 0
+      },
+      {
+        "theta": 0.98,
+        "flagged": 0
+      },
+      {
+        "theta": 0.99,
+        "flagged": 0
+      },
+      {
+        "theta": 1.0,
+        "flagged": 0
+      }
+    ],
+    "rounded": [
+      {
+        "theta": 0.0,
+        "flagged": 12
+      },
+      {
+        "theta": 0.01,
+        "flagged": 0
+      },
+      {
+        "theta": 0.02,
+        "flagged": 0
+      },
+      {
+        "theta": 0.03,
+        "flagged": 0
+      },
+      {
+        "theta": 0.04,
+        "flagged": 0
+      },
+      {
+        "theta": 0.05,
+        "flagged": 0
+      },
+      {
+        "theta": 0.06,
+        "flagged": 0
+      },
+      {
+        "theta": 0.07,
+        "flagged": 0
+      },
+      {
+        "theta": 0.08,
+        "flagged": 0
+      },
+      {
+        "theta": 0.09,
+        "flagged": 0
+      },
+      {
+        "theta": 0.1,
+        "flagged": 0
+      },
+      {
+        "theta": 0.11,
+        "flagged": 0
+      },
+      {
+        "theta": 0.12,
+        "flagged": 0
+      },
+      {
+        "theta": 0.13,
+        "flagged": 0
+      },
+      {
+        "theta": 0.14,
+        "flagged": 0
+      },
+      {
+        "theta": 0.15,
+        "flagged": 0
+      },
+      {
+        "theta": 0.16,
+        "flagged": 0
+      },
+      {
+        "theta": 0.17,
+        "flagged": 0
+      },
+      {
+        "theta": 0.18,
+        "flagged": 0
+      },
+      {
+        "theta": 0.19,
+        "flagged": 0
+      },
+      {
+        "theta": 0.2,
+        "flagged": 0
+      },
+      {
+        "theta": 0.21,
+        "flagged": 0
+      },
+      {
+        "theta": 0.22,
+        "flagged": 0
+      },
+      {
+        "theta": 0.23,
+        "flagged": 0
+      },
+      {
+        "theta": 0.24,
+        "flagged": 0
+      },
+      {
+        "theta": 0.25,
+        "flagged": 0
+      },
+      {
+        "theta": 0.26,
+        "flagged": 0
+      },
+      {
+        "theta": 0.27,
+        "flagged": 0
+      },
+      {
+        "theta": 0.28,
+        "flagged": 0
+      },
+      {
+        "theta": 0.29,
+        "flagged": 0
+      },
+      {
+        "theta": 0.3,
+        "flagged": 0
+      },
+      {
+        "theta": 0.31,
+        "flagged": 0
+      },
+      {
+        "theta": 0.32,
+        "flagged": 0
+      },
+      {
+        "theta": 0.33,
+        "flagged": 0
+      },
+      {
+        "theta": 0.34,
+        "flagged": 0
+      },
+      {
+        "theta": 0.35,
+        "flagged": 0
+      },
+      {
+        "theta": 0.36,
+        "flagged": 0
+      },
+      {
+        "theta": 0.37,
+        "flagged": 0
+      },
+      {
+        "theta": 0.38,
+        "flagged": 0
+      },
+      {
+        "theta": 0.39,
+        "flagged": 0
+      },
+      {
+        "theta": 0.4,
+        "flagged": 0
+      },
+      {
+        "theta": 0.41,
+        "flagged": 0
+      },
+      {
+        "theta": 0.42,
+        "flagged": 0
+      },
+      {
+        "theta": 0.43,
+        "flagged": 0
+      },
+      {
+        "theta": 0.44,
+        "flagged": 0
+      },
+      {
+        "theta": 0.45,
+        "flagged": 0
+      },
+      {
+        "theta": 0.46,
+        "flagged": 0
+      },
+      {
+        "theta": 0.47,
+        "flagged": 0
+      },
+      {
+        "theta": 0.48,
+        "flagged": 0
+      },
+      {
+        "theta": 0.49,
+        "flagged": 0
+      },
+      {
+        "theta": 0.5,
+        "flagged": 0
+      },
+      {
+        "theta": 0.51,
+        "flagged": 0
+      },
+      {
+        "theta": 0.52,
+        "flagged": 0
+      },
+      {
+        "theta": 0.53,
+        "flagged": 0
+      },
+      {
+        "theta": 0.54,
+        "flagged": 0
+      },
+      {
+        "theta": 0.55,
+        "flagged": 0
+      },
+      {
+        "theta": 0.56,
+        "flagged": 0
+      },
+      {
+        "theta": 0.57,
+        "flagged": 0
+      },
+      {
+        "theta": 0.58,
+        "flagged": 0
+      },
+      {
+        "theta": 0.59,
+        "flagged": 0
+      },
+      {
+        "theta": 0.6,
+        "flagged": 0
+      },
+      {
+        "theta": 0.61,
+        "flagged": 0
+      },
+      {
+        "theta": 0.62,
+        "flagged": 0
+      },
+      {
+        "theta": 0.63,
+        "flagged": 0
+      },
+      {
+        "theta": 0.64,
+        "flagged": 0
+      },
+      {
+        "theta": 0.65,
+        "flagged": 0
+      },
+      {
+        "theta": 0.66,
+        "flagged": 0
+      },
+      {
+        "theta": 0.67,
+        "flagged": 0
+      },
+      {
+        "theta": 0.68,
+        "flagged": 0
+      },
+      {
+        "theta": 0.69,
+        "flagged": 0
+      },
+      {
+        "theta": 0.7,
+        "flagged": 0
+      },
+      {
+        "theta": 0.71,
+        "flagged": 0
+      },
+      {
+        "theta": 0.72,
+        "flagged": 0
+      },
+      {
+        "theta": 0.73,
+        "flagged": 0
+      },
+      {
+        "theta": 0.74,
+        "flagged": 0
+      },
+      {
+        "theta": 0.75,
+        "flagged": 0
+      },
+      {
+        "theta": 0.76,
+        "flagged": 0
+      },
+      {
+        "theta": 0.77,
+        "flagged": 0
+      },
+      {
+        "theta": 0.78,
+        "flagged": 0
+      },
+      {
+        "theta": 0.79,
+        "flagged": 0
+      },
+      {
+        "theta": 0.8,
+        "flagged": 0
+      },
+      {
+        "theta": 0.81,
+        "flagged": 0
+      },
+      {
+        "theta": 0.82,
+        "flagged": 0
+      },
+      {
+        "theta": 0.83,
+        "flagged": 0
+      },
+      {
+        "theta": 0.84,
+        "flagged": 0
+      },
+      {
+        "theta": 0.85,
+        "flagged": 0
+      },
+      {
+        "theta": 0.86,
+        "flagged": 0
+      },
+      {
+        "theta": 0.87,
+        "flagged": 0
+      },
+      {
+        "theta": 0.88,
+        "flagged": 0
+      },
+      {
+        "theta": 0.89,
+        "flagged": 0
+      },
+      {
+        "theta": 0.9,
+        "flagged": 0
+      },
+      {
+        "theta": 0.91,
+        "flagged": 0
+      },
+      {
+        "theta": 0.92,
+        "flagged": 0
+      },
+      {
+        "theta": 0.93,
+        "flagged": 0
+      },
+      {
+        "theta": 0.94,
+        "flagged": 0
+      },
+      {
+        "theta": 0.95,
+        "flagged": 0
+      },
+      {
+        "theta": 0.96,
+        "flagged": 0
+      },
+      {
+        "theta": 0.97,
+        "flagged": 0
+      },
+      {
+        "theta": 0.98,
+        "flagged": 0
+      },
+      {
+        "theta": 0.99,
+        "flagged": 0
+      },
+      {
+        "theta": 1.0,
+        "flagged": 0
+      }
+    ],
+    "transit": [
+      {
+        "theta": 0.0,
+        "flagged": 12
+      },
+      {
+        "theta": 0.01,
+        "flagged": 12
+      },
+      {
+        "theta": 0.02,
+        "flagged": 12
+      },
+      {
+        "theta": 0.03,
+        "flagged": 12
+      },
+      {
+        "theta": 0.04,
+        "flagged": 12
+      },
+      {
+        "theta": 0.05,
+        "flagged": 12
+      },
+      {
+        "theta": 0.06,
+        "flagged": 12
+      },
+      {
+        "theta": 0.07,
+        "flagged": 12
+      },
+      {
+        "theta": 0.08,
+        "flagged": 12
+      },
+      {
+        "theta": 0.09,
+        "flagged": 12
+      },
+      {
+        "theta": 0.1,
+        "flagged": 12
+      },
+      {
+        "theta": 0.11,
+        "flagged": 12
+      },
+      {
+        "theta": 0.12,
+        "flagged": 12
+      },
+      {
+        "theta": 0.13,
+        "flagged": 12
+      },
+      {
+        "theta": 0.14,
+        "flagged": 12
+      },
+      {
+        "theta": 0.15,
+        "flagged": 12
+      },
+      {
+        "theta": 0.16,
+        "flagged": 12
+      },
+      {
+        "theta": 0.17,
+        "flagged": 12
+      },
+      {
+        "theta": 0.18,
+        "flagged": 12
+      },
+      {
+        "theta": 0.19,
+        "flagged": 12
+      },
+      {
+        "theta": 0.2,
+        "flagged": 12
+      },
+      {
+        "theta": 0.21,
+        "flagged": 12
+      },
+      {
+        "theta": 0.22,
+        "flagged": 11
+      },
+      {
+        "theta": 0.23,
+        "flagged": 11
+      },
+      {
+        "theta": 0.24,
+        "flagged": 11
+      },
+      {
+        "theta": 0.25,
+        "flagged": 11
+      },
+      {
+        "theta": 0.26,
+        "flagged": 11
+      },
+      {
+        "theta": 0.27,
+        "flagged": 10
+      },
+      {
+        "theta": 0.28,
+        "flagged": 9
+      },
+      {
+        "theta": 0.29,
+        "flagged": 9
+      },
+      {
+        "theta": 0.3,
+        "flagged": 9
+      },
+      {
+        "theta": 0.31,
+        "flagged": 9
+      },
+      {
+        "theta": 0.32,
+        "flagged": 9
+      },
+      {
+        "theta": 0.33,
+        "flagged": 9
+      },
+      {
+        "theta": 0.34,
+        "flagged": 9
+      },
+      {
+        "theta": 0.35,
+        "flagged": 8
+      },
+      {
+        "theta": 0.36,
+        "flagged": 8
+      },
+      {
+        "theta": 0.37,
+        "flagged": 8
+      },
+      {
+        "theta": 0.38,
+        "flagged": 8
+      },
+      {
+        "theta": 0.39,
+        "flagged": 7
+      },
+      {
+        "theta": 0.4,
+        "flagged": 7
+      },
+      {
+        "theta": 0.41,
+        "flagged": 6
+      },
+      {
+        "theta": 0.42,
+        "flagged": 6
+      },
+      {
+        "theta": 0.43,
+        "flagged": 5
+      },
+      {
+        "theta": 0.44,
+        "flagged": 5
+      },
+      {
+        "theta": 0.45,
+        "flagged": 5
+      },
+      {
+        "theta": 0.46,
+        "flagged": 5
+      },
+      {
+        "theta": 0.47,
+        "flagged": 4
+      },
+      {
+        "theta": 0.48,
+        "flagged": 4
+      },
+      {
+        "theta": 0.49,
+        "flagged": 4
+      },
+      {
+        "theta": 0.5,
+        "flagged": 4
+      },
+      {
+        "theta": 0.51,
+        "flagged": 4
+      },
+      {
+        "theta": 0.52,
+        "flagged": 3
+      },
+      {
+        "theta": 0.53,
+        "flagged": 2
+      },
+      {
+        "theta": 0.54,
+        "flagged": 2
+      },
+      {
+        "theta": 0.55,
+        "flagged": 2
+      },
+      {
+        "theta": 0.56,
+        "flagged": 2
+      },
+      {
+        "theta": 0.57,
+        "flagged": 2
+      },
+      {
+        "theta": 0.58,
+        "flagged": 2
+      },
+      {
+        "theta": 0.59,
+        "flagged": 2
+      },
+      {
+        "theta": 0.6,
+        "flagged": 2
+      },
+      {
+        "theta": 0.61,
+        "flagged": 2
+      },
+      {
+        "theta": 0.62,
+        "flagged": 2
+      },
+      {
+        "theta": 0.63,
+        "flagged": 2
+      },
+      {
+        "theta": 0.64,
+        "flagged": 2
+      },
+      {
+        "theta": 0.65,
+        "flagged": 2
+      },
+      {
+        "theta": 0.66,
+        "flagged": 2
+      },
+      {
+        "theta": 0.67,
+        "flagged": 2
+      },
+      {
+        "theta": 0.68,
+        "flagged": 2
+      },
+      {
+        "theta": 0.69,
+        "flagged": 2
+      },
+      {
+        "theta": 0.7,
+        "flagged": 2
+      },
+      {
+        "theta": 0.71,
+        "flagged": 2
+      },
+      {
+        "theta": 0.72,
+        "flagged": 1
+      },
+      {
+        "theta": 0.73,
+        "flagged": 0
+      },
+      {
+        "theta": 0.74,
+        "flagged": 0
+      },
+      {
+        "theta": 0.75,
+        "flagged": 0
+      },
+      {
+        "theta": 0.76,
+        "flagged": 0
+      },
+      {
+        "theta": 0.77,
+        "flagged": 0
+      },
+      {
+        "theta": 0.78,
+        "flagged": 0
+      },
+      {
+        "theta": 0.79,
+        "flagged": 0
+      },
+      {
+        "theta": 0.8,
+        "flagged": 0
+      },
+      {
+        "theta": 0.81,
+        "flagged": 0
+      },
+      {
+        "theta": 0.82,
+        "flagged": 0
+      },
+      {
+        "theta": 0.83,
+        "flagged": 0
+      },
+      {
+        "theta": 0.84,
+        "flagged": 0
+      },
+      {
+        "theta": 0.85,
+        "flagged": 0
+      },
+      {
+        "theta": 0.86,
+        "flagged": 0
+      },
+      {
+        "theta": 0.87,
+        "flagged": 0
+      },
+      {
+        "theta": 0.88,
+        "flagged": 0
+      },
+      {
+        "theta": 0.89,
+        "flagged": 0
+      },
+      {
+        "theta": 0.9,
+        "flagged": 0
+      },
+      {
+        "theta": 0.91,
+        "flagged": 0
+      },
+      {
+        "theta": 0.92,
+        "flagged": 0
+      },
+      {
+        "theta": 0.93,
+        "flagged": 0
+      },
+      {
+        "theta": 0.94,
+        "flagged": 0
+      },
+      {
+        "theta": 0.95,
+        "flagged": 0
+      },
+      {
+        "theta": 0.96,
+        "flagged": 0
+      },
+      {
+        "theta": 0.97,
+        "flagged": 0
+      },
+      {
+        "theta": 0.98,
+        "flagged": 0
+      },
+      {
+        "theta": 0.99,
+        "flagged": 0
+      },
+      {
+        "theta": 1.0,
+        "flagged": 0
+      }
+    ],
+    "shared": [
+      {
+        "theta": 0.0,
+        "flagged": 12
+      },
+      {
+        "theta": 0.01,
+        "flagged": 12
+      },
+      {
+        "theta": 0.02,
+        "flagged": 12
+      },
+      {
+        "theta": 0.03,
+        "flagged": 12
+      },
+      {
+        "theta": 0.04,
+        "flagged": 12
+      },
+      {
+        "theta": 0.05,
+        "flagged": 12
+      },
+      {
+        "theta": 0.06,
+        "flagged": 12
+      },
+      {
+        "theta": 0.07,
+        "flagged": 12
+      },
+      {
+        "theta": 0.08,
+        "flagged": 12
+      },
+      {
+        "theta": 0.09,
+        "flagged": 12
+      },
+      {
+        "theta": 0.1,
+        "flagged": 12
+      },
+      {
+        "theta": 0.11,
+        "flagged": 12
+      },
+      {
+        "theta": 0.12,
+        "flagged": 12
+      },
+      {
+        "theta": 0.13,
+        "flagged": 12
+      },
+      {
+        "theta": 0.14,
+        "flagged": 11
+      },
+      {
+        "theta": 0.15,
+        "flagged": 11
+      },
+      {
+        "theta": 0.16,
+        "flagged": 10
+      },
+      {
+        "theta": 0.17,
+        "flagged": 9
+      },
+      {
+        "theta": 0.18,
+        "flagged": 9
+      },
+      {
+        "theta": 0.19,
+        "flagged": 9
+      },
+      {
+        "theta": 0.2,
+        "flagged": 8
+      },
+      {
+        "theta": 0.21,
+        "flagged": 5
+      },
+      {
+        "theta": 0.22,
+        "flagged": 4
+      },
+      {
+        "theta": 0.23,
+        "flagged": 2
+      },
+      {
+        "theta": 0.24,
+        "flagged": 0
+      },
+      {
+        "theta": 0.25,
+        "flagged": 0
+      },
+      {
+        "theta": 0.26,
+        "flagged": 0
+      },
+      {
+        "theta": 0.27,
+        "flagged": 0
+      },
+      {
+        "theta": 0.28,
+        "flagged": 0
+      },
+      {
+        "theta": 0.29,
+        "flagged": 0
+      },
+      {
+        "theta": 0.3,
+        "flagged": 0
+      },
+      {
+        "theta": 0.31,
+        "flagged": 0
+      },
+      {
+        "theta": 0.32,
+        "flagged": 0
+      },
+      {
+        "theta": 0.33,
+        "flagged": 0
+      },
+      {
+        "theta": 0.34,
+        "flagged": 0
+      },
+      {
+        "theta": 0.35,
+        "flagged": 0
+      },
+      {
+        "theta": 0.36,
+        "flagged": 0
+      },
+      {
+        "theta": 0.37,
+        "flagged": 0
+      },
+      {
+        "theta": 0.38,
+        "flagged": 0
+      },
+      {
+        "theta": 0.39,
+        "flagged": 0
+      },
+      {
+        "theta": 0.4,
+        "flagged": 0
+      },
+      {
+        "theta": 0.41,
+        "flagged": 0
+      },
+      {
+        "theta": 0.42,
+        "flagged": 0
+      },
+      {
+        "theta": 0.43,
+        "flagged": 0
+      },
+      {
+        "theta": 0.44,
+        "flagged": 0
+      },
+      {
+        "theta": 0.45,
+        "flagged": 0
+      },
+      {
+        "theta": 0.46,
+        "flagged": 0
+      },
+      {
+        "theta": 0.47,
+        "flagged": 0
+      },
+      {
+        "theta": 0.48,
+        "flagged": 0
+      },
+      {
+        "theta": 0.49,
+        "flagged": 0
+      },
+      {
+        "theta": 0.5,
+        "flagged": 0
+      },
+      {
+        "theta": 0.51,
+        "flagged": 0
+      },
+      {
+        "theta": 0.52,
+        "flagged": 0
+      },
+      {
+        "theta": 0.53,
+        "flagged": 0
+      },
+      {
+        "theta": 0.54,
+        "flagged": 0
+      },
+      {
+        "theta": 0.55,
+        "flagged": 0
+      },
+      {
+        "theta": 0.56,
+        "flagged": 0
+      },
+      {
+        "theta": 0.57,
+        "flagged": 0
+      },
+      {
+        "theta": 0.58,
+        "flagged": 0
+      },
+      {
+        "theta": 0.59,
+        "flagged": 0
+      },
+      {
+        "theta": 0.6,
+        "flagged": 0
+      },
+      {
+        "theta": 0.61,
+        "flagged": 0
+      },
+      {
+        "theta": 0.62,
+        "flagged": 0
+      },
+      {
+        "theta": 0.63,
+        "flagged": 0
+      },
+      {
+        "theta": 0.64,
+        "flagged": 0
+      },
+      {
+        "theta": 0.65,
+        "flagged": 0
+      },
+      {
+        "theta": 0.66,
+        "flagged": 0
+      },
+      {
+        "theta": 0.67,
+        "flagged": 0
+      },
+      {
+        "theta": 0.68,
+        "flagged": 0
+      },
+      {
+        "theta": 0.69,
+        "flagged": 0
+      },
+      {
+        "theta": 0.7,
+        "flagged": 0
+      },
+      {
+        "theta": 0.71,
+        "flagged": 0
+      },
+      {
+        "theta": 0.72,
+        "flagged": 0
+      },
+      {
+        "theta": 0.73,
+        "flagged": 0
+      },
+      {
+        "theta": 0.74,
+        "flagged": 0
+      },
+      {
+        "theta": 0.75,
+        "flagged": 0
+      },
+      {
+        "theta": 0.76,
+        "flagged": 0
+      },
+      {
+        "theta": 0.77,
+        "flagged": 0
+      },
+      {
+        "theta": 0.78,
+        "flagged": 0
+      },
+      {
+        "theta": 0.79,
+        "flagged": 0
+      },
+      {
+        "theta": 0.8,
+        "flagged": 0
+      },
+      {
+        "theta": 0.81,
+        "flagged": 0
+      },
+      {
+        "theta": 0.82,
+        "flagged": 0
+      },
+      {
+        "theta": 0.83,
+        "flagged": 0
+      },
+      {
+        "theta": 0.84,
+        "flagged": 0
+      },
+      {
+        "theta": 0.85,
+        "flagged": 0
+      },
+      {
+        "theta": 0.86,
+        "flagged": 0
+      },
+      {
+        "theta": 0.87,
+        "flagged": 0
+      },
+      {
+        "theta": 0.88,
+        "flagged": 0
+      },
+      {
+        "theta": 0.89,
+        "flagged": 0
+      },
+      {
+        "theta": 0.9,
+        "flagged": 0
+      },
+      {
+        "theta": 0.91,
+        "flagged": 0
+      },
+      {
+        "theta": 0.92,
+        "flagged": 0
+      },
+      {
+        "theta": 0.93,
+        "flagged": 0
+      },
+      {
+        "theta": 0.94,
+        "flagged": 0
+      },
+      {
+        "theta": 0.95,
+        "flagged": 0
+      },
+      {
+        "theta": 0.96,
+        "flagged": 0
+      },
+      {
+        "theta": 0.97,
+        "flagged": 0
+      },
+      {
+        "theta": 0.98,
+        "flagged": 0
+      },
+      {
+        "theta": 0.99,
+        "flagged": 0
+      },
+      {
+        "theta": 1.0,
+        "flagged": 0
+      }
+    ],
+    "asset": [
+      {
+        "theta": 0.0,
+        "flagged": 12
+      },
+      {
+        "theta": 0.01,
+        "flagged": 12
+      },
+      {
+        "theta": 0.02,
+        "flagged": 12
+      },
+      {
+        "theta": 0.03,
+        "flagged": 12
+      },
+      {
+        "theta": 0.04,
+        "flagged": 12
+      },
+      {
+        "theta": 0.05,
+        "flagged": 12
+      },
+      {
+        "theta": 0.06,
+        "flagged": 12
+      },
+      {
+        "theta": 0.07,
+        "flagged": 12
+      },
+      {
+        "theta": 0.08,
+        "flagged": 12
+      },
+      {
+        "theta": 0.09,
+        "flagged": 12
+      },
+      {
+        "theta": 0.1,
+        "flagged": 12
+      },
+      {
+        "theta": 0.11,
+        "flagged": 12
+      },
+      {
+        "theta": 0.12,
+        "flagged": 12
+      },
+      {
+        "theta": 0.13,
+        "flagged": 12
+      },
+      {
+        "theta": 0.14,
+        "flagged": 12
+      },
+      {
+        "theta": 0.15,
+        "flagged": 12
+      },
+      {
+        "theta": 0.16,
+        "flagged": 12
+      },
+      {
+        "theta": 0.17,
+        "flagged": 11
+      },
+      {
+        "theta": 0.18,
+        "flagged": 11
+      },
+      {
+        "theta": 0.19,
+        "flagged": 11
+      },
+      {
+        "theta": 0.2,
+        "flagged": 11
+      },
+      {
+        "theta": 0.21,
+        "flagged": 11
+      },
+      {
+        "theta": 0.22,
+        "flagged": 11
+      },
+      {
+        "theta": 0.23,
+        "flagged": 11
+      },
+      {
+        "theta": 0.24,
+        "flagged": 11
+      },
+      {
+        "theta": 0.25,
+        "flagged": 11
+      },
+      {
+        "theta": 0.26,
+        "flagged": 11
+      },
+      {
+        "theta": 0.27,
+        "flagged": 11
+      },
+      {
+        "theta": 0.28,
+        "flagged": 10
+      },
+      {
+        "theta": 0.29,
+        "flagged": 9
+      },
+      {
+        "theta": 0.3,
+        "flagged": 9
+      },
+      {
+        "theta": 0.31,
+        "flagged": 8
+      },
+      {
+        "theta": 0.32,
+        "flagged": 7
+      },
+      {
+        "theta": 0.33,
+        "flagged": 7
+      },
+      {
+        "theta": 0.34,
+        "flagged": 7
+      },
+      {
+        "theta": 0.35,
+        "flagged": 7
+      },
+      {
+        "theta": 0.36,
+        "flagged": 7
+      },
+      {
+        "theta": 0.37,
+        "flagged": 7
+      },
+      {
+        "theta": 0.38,
+        "flagged": 7
+      },
+      {
+        "theta": 0.39,
+        "flagged": 6
+      },
+      {
+        "theta": 0.4,
+        "flagged": 6
+      },
+      {
+        "theta": 0.41,
+        "flagged": 6
+      },
+      {
+        "theta": 0.42,
+        "flagged": 5
+      },
+      {
+        "theta": 0.43,
+        "flagged": 4
+      },
+      {
+        "theta": 0.44,
+        "flagged": 4
+      },
+      {
+        "theta": 0.45,
+        "flagged": 4
+      },
+      {
+        "theta": 0.46,
+        "flagged": 4
+      },
+      {
+        "theta": 0.47,
+        "flagged": 3
+      },
+      {
+        "theta": 0.48,
+        "flagged": 2
+      },
+      {
+        "theta": 0.49,
+        "flagged": 2
+      },
+      {
+        "theta": 0.5,
+        "flagged": 2
+      },
+      {
+        "theta": 0.51,
+        "flagged": 2
+      },
+      {
+        "theta": 0.52,
+        "flagged": 2
+      },
+      {
+        "theta": 0.53,
+        "flagged": 2
+      },
+      {
+        "theta": 0.54,
+        "flagged": 1
+      },
+      {
+        "theta": 0.55,
+        "flagged": 1
+      },
+      {
+        "theta": 0.56,
+        "flagged": 1
+      },
+      {
+        "theta": 0.57,
+        "flagged": 1
+      },
+      {
+        "theta": 0.58,
+        "flagged": 1
+      },
+      {
+        "theta": 0.59,
+        "flagged": 1
+      },
+      {
+        "theta": 0.6,
+        "flagged": 0
+      },
+      {
+        "theta": 0.61,
+        "flagged": 0
+      },
+      {
+        "theta": 0.62,
+        "flagged": 0
+      },
+      {
+        "theta": 0.63,
+        "flagged": 0
+      },
+      {
+        "theta": 0.64,
+        "flagged": 0
+      },
+      {
+        "theta": 0.65,
+        "flagged": 0
+      },
+      {
+        "theta": 0.66,
+        "flagged": 0
+      },
+      {
+        "theta": 0.67,
+        "flagged": 0
+      },
+      {
+        "theta": 0.68,
+        "flagged": 0
+      },
+      {
+        "theta": 0.69,
+        "flagged": 0
+      },
+      {
+        "theta": 0.7,
+        "flagged": 0
+      },
+      {
+        "theta": 0.71,
+        "flagged": 0
+      },
+      {
+        "theta": 0.72,
+        "flagged": 0
+      },
+      {
+        "theta": 0.73,
+        "flagged": 0
+      },
+      {
+        "theta": 0.74,
+        "flagged": 0
+      },
+      {
+        "theta": 0.75,
+        "flagged": 0
+      },
+      {
+        "theta": 0.76,
+        "flagged": 0
+      },
+      {
+        "theta": 0.77,
+        "flagged": 0
+      },
+      {
+        "theta": 0.78,
+        "flagged": 0
+      },
+      {
+        "theta": 0.79,
+        "flagged": 0
+      },
+      {
+        "theta": 0.8,
+        "flagged": 0
+      },
+      {
+        "theta": 0.81,
+        "flagged": 0
+      },
+      {
+        "theta": 0.82,
+        "flagged": 0
+      },
+      {
+        "theta": 0.83,
+        "flagged": 0
+      },
+      {
+        "theta": 0.84,
+        "flagged": 0
+      },
+      {
+        "theta": 0.85,
+        "flagged": 0
+      },
+      {
+        "theta": 0.86,
+        "flagged": 0
+      },
+      {
+        "theta": 0.87,
+        "flagged": 0
+      },
+      {
+        "theta": 0.88,
+        "flagged": 0
+      },
+      {
+        "theta": 0.89,
+        "flagged": 0
+      },
+      {
+        "theta": 0.9,
+        "flagged": 0
+      },
+      {
+        "theta": 0.91,
+        "flagged": 0
+      },
+      {
+        "theta": 0.92,
+        "flagged": 0
+      },
+      {
+        "theta": 0.93,
+        "flagged": 0
+      },
+      {
+        "theta": 0.94,
+        "flagged": 0
+      },
+      {
+        "theta": 0.95,
+        "flagged": 0
+      },
+      {
+        "theta": 0.96,
+        "flagged": 0
+      },
+      {
+        "theta": 0.97,
+        "flagged": 0
+      },
+      {
+        "theta": 0.98,
+        "flagged": 0
+      },
+      {
+        "theta": 0.99,
+        "flagged": 0
+      },
+      {
+        "theta": 1.0,
+        "flagged": 0
+      }
+    ]
+  },
+  "operating_points": {
+    "HHI": 0.5,
+    "rounded": 0.3,
+    "transit": 0.6,
+    "shared": 0.2,
+    "asset": 0.25
+  },
+  "flagged_at_operating_points": {
+    "HHI": 0,
+    "rounded": 0,
+    "transit": 2,
+    "shared": 8,
+    "asset": 11
+  },
+  "rounded_by_ell": {
+    "2": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "3": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "4": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "transit_by_delta": {
+    "24": [
+      0.043,
+      0.076,
+      0.094,
+      0.095,
+      0.101,
+      0.105,
+      0.107,
+      0.177,
+      0.257,
+      0.266,
+      0.276,
+      0.297
+    ],
+    "72": [
+      0.218,
+      0.264,
+      0.275,
+      0.348,
+      0.384,
+      0.406,
+      0.42,
+      0.463,
+      0.511,
+      0.524,
+      0.712,
+      0.724
+    ],
+    "168": [
+      0.53,
+      0.574,
+      0.65,
+      0.714,
+      0.727,
+      0.728,
+      0.802,
+      0.828,
+      0.854,
+      0.86,
+      0.92,
+      0.937
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+source_file_id,source_row,code,class,detail
+F005,,LAYOUT_OBSTACLE,UNPARSED_LAYOUT,metadata_preamble
+F010,43,NON_TRANSACTION_ROW,UNPARSED_LAYOUT,row starting 'TOTALS' is not a transaction
+F010,,LAYOUT_OBSTACLE,UNPARSED_LAYOUT,trailing_non_transaction_rows
+F022,,LAYOUT_OBSTACLE,UNPARSED_LAYOUT,two_row_header
+F028,,LAYOUT_OBSTACLE,UNPARSED_LAYOUT,summary_rows_before_table
+F001,2,NO_BALANCE_FIELD,,no predecessor balance
+F003,6,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=108706.98
+F003,10,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=0.5
+F003,11,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=-0.5
+F003,30,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=1.45
+F003,33,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=184955.96
+F004,9,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,10,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,11,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,12,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,13,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,14,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,15,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,16,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,17,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,18,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,19,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,20,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,21,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,22,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,23,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,24,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,25,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,26,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,27,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,28,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,29,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,30,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,31,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,32,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,33,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,34,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,35,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,36,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,37,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,38,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,39,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,40,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,41,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,42,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,43,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,44,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,45,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,46,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,47,NO_BALANCE_FIELD,,reconciliation unavailable
+F004,48,NO_BALANCE_FIELD,,reconciliation unavailable
+F005,9,NO_BALANCE_FIELD,,no predecessor balance
+F006,9,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=54744.96
+F006,11,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=0.87
+F007,3,NO_BALANCE_FIELD,,no predecessor balance
+F007,36,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=-1088948.8
+F008,29,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=0.66
+F009,9,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,10,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,11,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,12,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,13,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,14,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,15,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,16,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,17,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,18,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,19,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,20,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,21,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,22,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,23,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,24,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,25,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,26,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,27,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,28,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,29,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,30,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,31,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,32,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,33,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,34,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,35,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,36,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,37,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,38,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,39,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,40,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,41,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,42,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,43,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,44,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,45,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,46,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,47,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,48,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,49,NO_BALANCE_FIELD,,reconciliation unavailable
+F009,50,NO_BALANCE_FIELD,,reconciliation unavailable
+F010,2,NO_BALANCE_FIELD,,no predecessor balance
+F011,2,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,3,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,4,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,5,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,6,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,7,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,8,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,9,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,10,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,11,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,12,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,13,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,14,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,15,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,16,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,17,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,18,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,19,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,20,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,21,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,22,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,23,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,24,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,25,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,26,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,27,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,28,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,29,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,30,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,31,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,32,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,33,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,34,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,35,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,36,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,37,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,38,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,39,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,40,NO_BALANCE_FIELD,,reconciliation unavailable
+F011,41,NO_BALANCE_FIELD,,reconciliation unavailable
+F012,9,NO_BALANCE_FIELD,,no predecessor balance
+F012,30,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=0.4
+F012,31,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=-0.4
+F013,26,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=1.2
+F013,27,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=-157081.84
+F013,39,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=61745.26
+F014,2,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,3,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,4,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,5,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,6,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,7,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,8,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,9,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,10,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,11,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,12,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,13,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,14,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,15,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,16,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,17,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,18,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,19,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,20,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,21,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,22,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,23,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,24,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,25,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,26,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,27,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,28,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,29,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,30,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,31,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,32,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,33,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,34,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,35,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,36,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,37,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,38,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,39,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,40,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,41,NO_BALANCE_FIELD,,reconciliation unavailable
+F014,42,NO_BALANCE_FIELD,,reconciliation unavailable
+F015,2,NO_BALANCE_FIELD,,no predecessor balance
+F015,31,BALANCE_RESIDUAL,BALANCE_INCONSISTENCY,eps=0.95
+F015,42,SIGN_RESIDUAL,DIRECTION_INCONSISTENCY,eps=-54100.92
+F017,2,NO_BALANCE_FIELD,,no predecessor balance
+F019,6,NO_BALANCE_FIELD,,no predecessor balance
+F021,2,NO_BALANCE_FIELD,,no predecessor balance
+F023,2,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,3,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,4,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,5,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,6,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,7,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,8,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,9,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,10,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,11,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,12,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,13,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,14,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,15,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,16,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,17,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,18,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,19,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,20,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,21,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,22,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,23,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,24,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,25,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,26,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,27,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,28,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,29,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,30,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,31,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,32,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,33,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,34,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,35,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,36,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,37,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,38,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,39,NO_BALANCE_FIELD,,reconciliation unavailable
+F023,40,NO_BALANCE_FIELD,,reconciliation unavailable
+F024,9,NO_BALANCE_FIELD,,no predecessor balance
+F026,2,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,3,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,4,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,5,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,6,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,7,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,8,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,9,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,10,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,11,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,12,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,13,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,14,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,15,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,16,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,17,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,18,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,19,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,20,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,21,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,22,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,23,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,24,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,25,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,26,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,27,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,28,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,29,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,30,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,31,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,32,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,33,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,34,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,35,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,36,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,37,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,38,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,39,NO_BALANCE_FIELD,,reconciliation unavailable
+F026,40,NO_BALANCE_FIELD,,reconciliation unavailable
+F027,7,NO_BALANCE_FIELD,,no predecessor balance
+F029,2,NO_BALANCE_FIELD,,no predecessor balance
+F003,13,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F003:12
+F003,26,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F003:25
+F009,18,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F009:17
+F009,26,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F009:25
+F012,47,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F012:46
+F013,16,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F013:15
+F014,20,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F014:19
+F015,35,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F015:34
+F017,29,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F017:28
+F019,37,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F019:36
+F028,43,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F028:42
+F006,13,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F006:12
+F016,23,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F016:22
+F025,24,DUP_CANDIDATE_REPEAT,DUPLICATE_ROW,shares key with F025:23
+F003,17,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F004,27,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F005,31,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F005,45,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,channel only
+F009,20,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F017,23,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F018,16,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F023,12,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F023,35,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F029,20,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F029,30,CP_INCOMPLETE,INCOMPLETE_COUNTERPARTY,no counterparty attribute
+F009,10,UNMAPPED_VALUE,UNMAPPED_FIELD,value 'REF5118140' in unlabelled column
+F014,39,UNMAPPED_VALUE,UNMAPPED_FIELD,value 'REF5273767' in unlabelled column
+F021,19,UNMAPPED_VALUE,UNMAPPED_FIELD,value 'REF7825252' in unlabelled column
+F021,31,UNMAPPED_VALUE,UNMAPPED_FIELD,value 'REF1850414' in unlabelled column
+F025,28,UNMAPPED_VALUE,UNMAPPED_FIELD,value 'REF8383522' in unlabelled column
+F029,15,UNMAPPED_VALUE,UNMAPPED_FIELD,value 'REF6166455' in unlabelled column
+F003,2,CURRENCY_NOT_STATED,,currency inherited from account
+F003,3,CURRENCY_NOT_STATED,,currency inherited from account
+F003,4,FOREIGN_CURRENCY_ROW,CURRENCY_MIXING,USD row in KZT account
+F003,5,CURRENCY_NOT_STATED,,currency inherited from account
+F003,6,CURRENCY_NOT_STATED,,currency inherited from account
+F003,7,CURRENCY_NOT_STATED,,currency inherited from account
+F003,8,CURRENCY_NOT_STATED,,currency inherited from account
+F003,9,CURRENCY_NOT_STATED,,currency inherited from account
+F003,10,CURRENCY_NOT_STATED,,currency inherited from account
+F003,11,CURRENCY_NOT_STATED,,currency inherited from account
+F003,12,CURRENCY_NOT_STATED,,currency inherited from account
+F003,13,CURRENCY_NOT_STATED,,currency inherited from account
+F003,14,CURRENCY_NOT_STATED,,currency inherited from account
+F003,15,CURRENCY_NOT_STATED,,currency inherited from account
+F003,16,CURRENCY_NOT_STATED,,currency inherited from account
+F003,17,CURRENCY_NOT_STATED,,currency inherited from account
+F003,18,CURRENCY_NOT_STATED,,currency inherited from account
+F003,19,CURRENCY_NOT_STATED,,currency inherited from account
+F003,20,CURRENCY_NOT_STATED,,currency inherited from account
+F003,21,CURRENCY_NOT_STATED,,currency inherited from account
+F003,22,CURRENCY_NOT_STATED,,currency inherited from account
+F003,23,CURRENCY_NOT_STATED,,currency inherited from account
+F003,24,CURRENCY_NOT_STATED,,currency inherited from account
+F003,25,CURRENCY_NOT_STATED,,currency inherited from account
+F003,26,CURRENCY_NOT_STATED,,currency inherited from account
+F003,27,CURRENCY_NOT_STATED,,currency inherited from account
+F003,28,CURRENCY_NOT_STATED,,currency inherited from account
+F003,29,CURRENCY_NOT_STATED,,currency inherited from account
+F003,30,CURRENCY_NOT_STATED,,currency inherited from account
+F003,31,CURRENCY_NOT_STATED,,currency inherited from account
+F003,32,CURRENCY_NOT_STATED,,currency inherited from account
+F003,33,CURRENCY_NOT_STATED,,currency inherited from account
+F003,34,CURRENCY_NOT_STATED,,currency inherited from account
+F003,35,CURRENCY_NOT_STATED,,currency inherited from account
+F003,36,CURRENCY_NOT_STATED,,currency inherited from account
+F003,37,CURRENCY_NOT_STATED,,currency inherited from account
+F003,38,CURRENCY_NOT_STATED,,currency inherited from account
+F003,39,CURRENCY_NOT_STATED,,currency inherited from account
+F003,40,CURRENCY_NOT_STATED,,currency inherited from account
+F003,41,CURRENCY_NOT_STATED,,currency inherited from account
+F003,42,CURRENCY_NOT_STATED,,currency inherited from account
+F003,43,CURRENCY_NOT_STATED,,currency inherited from account
+F005,9,CURRENCY_NOT_STATED,,currency inherited from account
+F005,10,CURRENCY_NOT_STATED,,currency inherited from account
+F005,11,CURRENCY_NOT_STATED,,currency inherited from account
+F005,12,CURRENCY_NOT_STATED,,currency inherited from account
+F005,13,CURRENCY_NOT_STATED,,currency inherited from account
+F005,14,CURRENCY_NOT_STATED,,currency inherited from account
+F005,15,CURRENCY_NOT_STATED,,currency inherited from account
+F005,16,CURRENCY_NOT_STATED,,currency inherited from account
+F005,17,CURRENCY_NOT_STATED,,currency inherited from account
+F005,18,CURRENCY_NOT_STATED,,currency inherited from account
+F005,19,CURRENCY_NOT_STATED,,currency inherited from account
+F005,20,CURRENCY_NOT_STATED,,currency inherited from account
+F005,21,CURRENCY_NOT_STATED,,currency inherited from account
+F005,22,CURRENCY_NOT_STATED,,currency inherited from account
+F005,23,CURRENCY_NOT_STATED,,currency inherited from account
+F005,24,CURRENCY_NOT_STATED,,currency inherited from account
+F005,25,CURRENCY_NOT_STATED,,currency inherited from account
+F005,26,CURRENCY_NOT_STATED,,currency inherited from account
+F005,27,CURRENCY_NOT_STATED,,currency inherited from account
+F005,28,CURRENCY_NOT_STATED,,currency inherited from account
+F005,29,CURRENCY_NOT_STATED,,currency inherited from account
+F005,30,CURRENCY_NOT_STATED,,currency inherited from account
+F005,31,CURRENCY_NOT_STATED,,currency inherited from account
+F005,32,CURRENCY_NOT_STATED,,currency inherited from account
+F005,33,CURRENCY_NOT_STATED,,currency inherited from account
+F005,34,CURRENCY_NOT_STATED,,currency inherited from account
+F005,35,CURRENCY_NOT_STATED,,currency inherited from account
+F005,36,CURRENCY_NOT_STATED,,currency inherited from account
+F005,37,CURRENCY_NOT_STATED,,currency inherited from account
+F005,38,CURRENCY_NOT_STATED,,currency inherited from account
+F005,39,CURRENCY_NOT_STATED,,currency inherited from account
+F005,40,CURRENCY_NOT_STATED,,currency inherited from account
+F005,41,CURRENCY_NOT_STATED,,currency inherited from account
+F005,42,CURRENCY_NOT_STATED,,currency inherited from account
+F005,43,CURRENCY_NOT_STATED,,currency inherited from account
+F005,44,CURRENCY_NOT_STATED,,currency inherited from account
+F005,45,CURRENCY_NOT_STATED,,currency inherited from account
+F005,46,CURRENCY_NOT_STATED,,currency inherited from account
+F005,47,CURRENCY_NOT_STATED,,currency inherited from account
+F005,48,CURRENCY_NOT_STATED,,currency inherited from account
+F012,9,CURRENCY_NOT_STATED,,currency inherited from account
+F012,10,CURRENCY_NOT_STATED,,currency inherited from account
+F012,11,CURRENCY_NOT_STATED,,currency inherited from account
+F012,12,CURRENCY_NOT_STATED,,currency inherited from account
+F012,13,CURRENCY_NOT_STATED,,currency inherited from account
+F012,14,FOREIGN_CURRENCY_ROW,CURRENCY_MIXING,EUR row in KZT account
+F012,15,CURRENCY_NOT_STATED,,currency inherited from account
+F012,16,CURRENCY_NOT_STATED,,currency inherited from account
+F012,17,CURRENCY_NOT_STATED,,currency inherited from account
+F012,18,CURRENCY_NOT_STATED,,currency inherited from account
+F012,19,CURRENCY_NOT_STATED,,currency inherited from account
+F012,20,FOREIGN_CURRENCY_ROW,CURRENCY_MIXING,USD row in KZT account
+F012,21,CURRENCY_NOT_STATED,,currency inherited from account
+F012,22,CURRENCY_NOT_STATED,,currency inherited from account
+F012,23,CURRENCY_NOT_STATED,,currency inherited from account
+F012,24,CURRENCY_NOT_STATED,,currency inherited from account
+F012,25,CURRENCY_NOT_STATED,,currency inherited from account
+F012,26,CURRENCY_NOT_STATED,,currency inherited from account
+F012,27,CURRENCY_NOT_STATED,,currency inherited from account
+F012,28,CURRENCY_NOT_STATED,,currency inherited from account
+F012,29,CURRENCY_NOT_STATED,,currency inherited from account
+F012,30,CURRENCY_NOT_STATED,,currency inherited from account
+F012,31,CURRENCY_NOT_STATED,,currency inherited from account
+F012,32,CURRENCY_NOT_STATED,,currency inherited from account
+F012,33,CURRENCY_NOT_STATED,,currency inherited from account
+F012,34,CURRENCY_NOT_STATED,,currency inherited from account
+F012,35,CURRENCY_NOT_STATED,,currency inherited from account
+F012,36,CURRENCY_NOT_STATED,,currency inherited from account
+F012,37,CURRENCY_NOT_STATED,,currency inherited from account
+F012,38,CURRENCY_NOT_STATED,,currency inherited from account
+F012,39,CURRENCY_NOT_STATED,,currency inherited from account
+F012,40,FOREIGN_CURRENCY_ROW,CURRENCY_MIXING,USD row in KZT account
+F012,41,CURRENCY_NOT_STATED,,currency inherited from account
+F012,42,CURRENCY_NOT_STATED,,currency inherited from account
+F012,43,CURRENCY_NOT_STATED,,currency inherited from account
+F012,44,CURRENCY_NOT_STATED,,currency inherited from account
+F012,45,CURRENCY_NOT_STATED,,currency inherited from account
+F012,46,CURRENCY_NOT_STATED,,currency inherited from account
+F012,47,CURRENCY_NOT_STATED,,currency inherited from account
+F012,48,CURRENCY_NOT_STATED,,currency inherited from account
+F012,49,CURRENCY_NOT_STATED,,currency inherited from account
+F013,9,CURRENCY_NOT_STATED,,currency inherited from account
+F013,10,CURRENCY_NOT_STATED,,currency inherited from account
+F013,11,CURRENCY_NOT_STATED,,currency inherited from account
+F013,12,CURRENCY_NOT_STATED,,currency inherited from account
+F013,13,CURRENCY_NOT_STATED,,currency inherited from account
+F013,14,FOREIGN_CURRENCY_ROW,CURRENCY_MIXING,EUR row in KZT account
+F013,15,CURRENCY_NOT_STATED,,currency inherited from account
+F013,16,CURRENCY_NOT_STATED,,currency inherited from account
+F013,17,CURRENCY_NOT_STATED,,currency inherited from account
+F013,18,CURRENCY_NOT_STATED,,currency inherited from account
+F013,19,CURRENCY_NOT_STATED,,currency inherited from account
+F013,20,CURRENCY_NOT_STATED,,currency inherited from account
+F013,21,CURRENCY_NOT_STATED,,currency inherited from account
+F013,22,CURRENCY_NOT_STATED,,currency inherited from account
+F013,23,CURRENCY_NOT_STATED,,currency inherited from account
+F013,24,CURRENCY_NOT_STATED,,currency inherited from account
+F013,25,CURRENCY_NOT_STATED,,currency inherited from account
+F013,26,CURRENCY_NOT_STATED,,currency inherited from account
+F013,27,CURRENCY_NOT_STATED,,currency inherited from account
+F013,28,CURRENCY_NOT_STATED,,currency inherited from account
+F013,29,CURRENCY_NOT_STATED,,currency inherited from account
+F013,30,CURRENCY_NOT_STATED,,currency inherited from account
+F013,31,CURRENCY_NOT_STATED,,currency inherited from account
+F013,32,CURRENCY_NOT_STATED,,currency inherited from account
+F013,33,CURRENCY_NOT_STATED,,currency inherited from account
+F013,34,CURRENCY_NOT_STATED,,currency inherited from account
+F013,35,CURRENCY_NOT_STATED,,currency inherited from account
+F013,36,CURRENCY_NOT_STATED,,currency inherited from account
+F013,37,CURRENCY_NOT_STATED,,currency inherited from account
+F013,38,CURRENCY_NOT_STATED,,currency inherited from account
+F013,39,CURRENCY_NOT_STATED,,currency inherited from account
+F013,40,CURRENCY_NOT_STATED,,currency inherited from account
+F013,41,CURRENCY_NOT_STATED,,currency inherited from account
+F013,42,CURRENCY_NOT_STATED,,currency inherited from account
+F013,43,CURRENCY_NOT_STATED,,currency inherited from account
+F013,44,CURRENCY_NOT_STATED,,currency inherited from account
+F013,45,CURRENCY_NOT_STATED,,currency inherited from account
+F013,46,CURRENCY_NOT_STATED,,currency inherited from account
+F013,47,CURRENCY_NOT_STATED,,currency inherited from account
+F013,48,CURRENCY_NOT_STATED,,currency inherited from account
+F013,49,CURRENCY_NOT_STATED,,currency inherited from account
+F025,2,CURRENCY_NOT_STATED,,currency inherited from account
+F025,3,CURRENCY_NOT_STATED,,currency inherited from account
+F025,4,CURRENCY_NOT_STATED,,currency inherited from account
+F025,5,CURRENCY_NOT_STATED,,currency inherited from account
+F025,6,CURRENCY_NOT_STATED,,currency inherited from account
+F025,7,CURRENCY_NOT_STATED,,currency inherited from account
+F025,8,CURRENCY_NOT_STATED,,currency inherited from account
+F025,9,CURRENCY_NOT_STATED,,currency inherited from account
+F025,10,CURRENCY_NOT_STATED,,currency inherited from account
+F025,11,CURRENCY_NOT_STATED,,currency inherited from account
+F025,12,CURRENCY_NOT_STATED,,currency inherited from account
+F025,13,CURRENCY_NOT_STATED,,currency inherited from account
+F025,14,CURRENCY_NOT_STATED,,currency inherited from account
+F025,15,CURRENCY_NOT_STATED,,currency inherited from account
+F025,16,CURRENCY_NOT_STATED,,currency inherited from account
+F025,17,CURRENCY_NOT_STATED,,currency inherited from account
+F025,18,CURRENCY_NOT_STATED,,currency inherited from account
+F025,19,CURRENCY_NOT_STATED,,currency inherited from account
+F025,20,CURRENCY_NOT_STATED,,currency inherited from account
+F025,21,CURRENCY_NOT_STATED,,currency inherited from account
+F025,22,CURRENCY_NOT_STATED,,currency inherited from account
+F025,23,CURRENCY_NOT_STATED,,currency inherited from account
+F025,24,CURRENCY_NOT_STATED,,currency inherited from account
+F025,25,CURRENCY_NOT_STATED,,currency inherited from account
+F025,26,CURRENCY_NOT_STATED,,currency inherited from account
+F025,27,CURRENCY_NOT_STATED,,currency inherited from account
+F025,28,CURRENCY_NOT_STATED,,currency inherited from account
+F025,29,FOREIGN_CURRENCY_ROW,CURRENCY_MIXING,EUR row in KZT account
+F025,30,CURRENCY_NOT_STATED,,currency inherited from account
+F025,31,CURRENCY_NOT_STATED,,currency inherited from account
+F025,32,CURRENCY_NOT_STATED,,currency inherited from account
+F025,33,CURRENCY_NOT_STATED,,currency inherited from account
+F025,34,CURRENCY_NOT_STATED,,currency inherited from account
+F025,35,CURRENCY_NOT_STATED,,currency inherited from account
+F025,36,CURRENCY_NOT_STATED,,currency inherited from account
+F025,37,CURRENCY_NOT_STATED,,currency inherited from account
+F025,38,CURRENCY_NOT_STATED,,currency inherited from account
+F025,39,CURRENCY_NOT_STATED,,currency inherited from account
+F025,40,CURRENCY_NOT_STATED,,currency inherited from account
+F025,41,CURRENCY_NOT_STATED,,currency inherited from account
+F029,2,CURRENCY_NOT_STATED,,currency inherited from account
+F029,3,CURRENCY_NOT_STATED,,currency inherited from account
+F029,4,CURRENCY_NOT_STATED,,currency inherited from account
+F029,5,CURRENCY_NOT_STATED,,currency inherited from account
+F029,6,CURRENCY_NOT_STATED,,currency inherited from account
+F029,7,CURRENCY_NOT_STATED,,currency inherited from account
+F029,8,CURRENCY_NOT_STATED,,currency inherited from account
+F029,9,CURRENCY_NOT_STATED,,currency inherited from account
+F029,10,CURRENCY_NOT_STATED,,currency inherited from account
+F029,11,CURRENCY_NOT_STATED,,currency inherited from account
+F029,12,CURRENCY_NOT_STATED,,currency inherited from account
+F029,13,CURRENCY_NOT_STATED,,currency inherited from account
+F029,14,CURRENCY_NOT_STATED,,currency inherited from account
+F029,15,CURRENCY_NOT_STATED,,currency inherited from account
+F029,16,CURRENCY_NOT_STATED,,currency inherited from account
+F029,17,CURRENCY_NOT_STATED,,currency inherited from account
+F029,18,CURRENCY_NOT_STATED,,currency inherited from account
+F029,19,CURRENCY_NOT_STATED,,currency inherited from account
+F029,20,CURRENCY_NOT_STATED,,currency inherited from account
+F029,21,CURRENCY_NOT_STATED,,currency inherited from account
+F029,22,CURRENCY_NOT_STATED,,currency inherited from account
+F029,23,CURRENCY_NOT_STATED,,currency inherited from account
+F029,24,CURRENCY_NOT_STATED,,currency inherited from account
+F029,25,CURRENCY_NOT_STATED,,currency inherited from account
+F029,26,CURRENCY_NOT_STATED,,currency inherited from account
+F029,27,CURRENCY_NOT_STATED,,currency inherited from account
+F029,28,CURRENCY_NOT_STATED,,currency inherited from account
+F029,29,CURRENCY_NOT_STATED,,currency inherited from account
+F029,30,CURRENCY_NOT_STATED,,currency inherited from account
+F029,31,CURRENCY_NOT_STATED,,currency inherited from account
+F029,32,CURRENCY_NOT_STATED,,currency inherited from account
+F029,33,CURRENCY_NOT_STATED,,currency inherited from account
+F029,34,CURRENCY_NOT_STATED,,currency inherited from account
+F029,35,CURRENCY_NOT_STATED,,currency inherited from account
+F029,36,CURRENCY_NOT_STATED,,currency inherited from account
+F029,37,CURRENCY_NOT_STATED,,currency inherited from account
+F029,38,CURRENCY_NOT_STATED,,currency inherited from account
+F029,39,CURRENCY_NOT_STATED,,currency inherited from account
+F029,40,CURRENCY_NOT_STATED,,currency inherited from account

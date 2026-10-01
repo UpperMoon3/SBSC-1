@@ -1,0 +1,132 @@
+{
+  "sweep": [
+    {
+      "tau": 0.0001,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.001,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.005,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.01,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.02,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.05,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.1,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.2,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.3,
+      "rows_exceeding": 16,
+      "accounts": 5,
+      "balance_TP": 7,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 0.5,
+      "rows_exceeding": 12,
+      "accounts": 5,
+      "balance_TP": 5,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 1.0,
+      "rows_exceeding": 9,
+      "accounts": 5,
+      "balance_TP": 2,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    },
+    {
+      "tau": 2.0,
+      "rows_exceeding": 7,
+      "accounts": 5,
+      "balance_TP": 0,
+      "balance_FP": 0,
+      "direction_TP": 7,
+      "direction_FP": 0
+    }
+  ],
+  "per_currency": {
+    "KZT": {
+      "scorable": 669,
+      "max_conforming": 0.0,
+      "min_exceeding": 0.4,
+      "exceeding": 16
+    },
+    "USD": {
+      "scorable": 120,
+      "max_conforming": 0.0,
+      "min_exceeding": null,
+      "exceeding": 0
+    },
+    "EUR": {
+      "scorable": 158,
+      "max_conforming": 0.0,
+      "min_exceeding": null,
+      "exceeding": 0
+    }
+  }
+}

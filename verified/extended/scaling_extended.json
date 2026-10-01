@@ -1,0 +1,126 @@
+{
+  "sizes": [
+    {
+      "rows": 1200,
+      "files": 30,
+      "runs": 3,
+      "median_s": 0.24847425002371892,
+      "min_s": 0.23936058301478624,
+      "max_s": 0.26017945795319974,
+      "peak_rss_mb": 46.546875,
+      "raw_runs": [
+        {
+          "rows": 1200,
+          "files": 30,
+          "seconds": 0.23936058301478624,
+          "peak_rss_mb": 46.265625
+        },
+        {
+          "rows": 1200,
+          "files": 30,
+          "seconds": 0.24847425002371892,
+          "peak_rss_mb": 46.265625
+        },
+        {
+          "rows": 1200,
+          "files": 30,
+          "seconds": 0.26017945795319974,
+          "peak_rss_mb": 46.546875
+        }
+      ]
+    },
+    {
+      "rows": 9600,
+      "files": 240,
+      "runs": 3,
+      "median_s": 1.9364627079921775,
+      "min_s": 1.9356960839941166,
+      "max_s": 1.9451985420309938,
+      "peak_rss_mb": 71.421875,
+      "raw_runs": [
+        {
+          "rows": 9600,
+          "files": 240,
+          "seconds": 1.9364627079921775,
+          "peak_rss_mb": 69.625
+        },
+        {
+          "rows": 9600,
+          "files": 240,
+          "seconds": 1.9356960839941166,
+          "peak_rss_mb": 71.421875
+        },
+        {
+          "rows": 9600,
+          "files": 240,
+          "seconds": 1.9451985420309938,
+          "peak_rss_mb": 71.3125
+        }
+      ]
+    },
+    {
+      "rows": 50400,
+      "files": 1260,
+      "runs": 3,
+      "median_s": 10.757842624967452,
+      "min_s": 10.629030541982502,
+      "max_s": 10.812389790953603,
+      "peak_rss_mb": 189.203125,
+      "raw_runs": [
+        {
+          "rows": 50400,
+          "files": 1260,
+          "seconds": 10.757842624967452,
+          "peak_rss_mb": 189.203125
+        },
+        {
+          "rows": 50400,
+          "files": 1260,
+          "seconds": 10.629030541982502,
+          "peak_rss_mb": 188.1875
+        },
+        {
+          "rows": 50400,
+          "files": 1260,
+          "seconds": 10.812389790953603,
+          "peak_rss_mb": 188.296875
+        }
+      ]
+    },
+    {
+      "rows": 100800,
+      "files": 2520,
+      "runs": 3,
+      "median_s": 21.40917062497465,
+      "min_s": 21.30521741701523,
+      "max_s": 21.551140416006092,
+      "peak_rss_mb": 338.84375,
+      "raw_runs": [
+        {
+          "rows": 100800,
+          "files": 2520,
+          "seconds": 21.30521741701523,
+          "peak_rss_mb": 338.84375
+        },
+        {
+          "rows": 100800,
+          "files": 2520,
+          "seconds": 21.551140416006092,
+          "peak_rss_mb": 337.796875
+        },
+        {
+          "rows": 100800,
+          "files": 2520,
+          "seconds": 21.40917062497465,
+          "peak_rss_mb": 337.75
+        }
+      ]
+    }
+  ],
+  "machine": {
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "python": "3.10.12",
+    "openpyxl": "3.1.5"
+  },
+  "protocol": "Three fresh processes per size; wall time includes run() cleanup; generation, interpreter startup and figure rendering excluded; warm OS caches permitted. Population grows by adding independently seeded synthetic corpora, not longer histories within one account."
+}

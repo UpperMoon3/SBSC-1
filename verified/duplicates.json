@@ -1,0 +1,77 @@
+{
+  "corpus_fallback_False": {
+    "TP": 11,
+    "FP": 0
+  },
+  "corpus_fallback_True": {
+    "TP": 14,
+    "FP": 0
+  },
+  "near_duplicates": {
+    "name_misspelled": {
+      "exact+fallback": {
+        "TP": 3,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 12
+      },
+      "exact+fallback+fuzzy": {
+        "TP": 14,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 12
+      }
+    },
+    "name_legal_form_dropped": {
+      "exact+fallback": {
+        "TP": 14,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 8
+      },
+      "exact+fallback+fuzzy": {
+        "TP": 14,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 8
+      }
+    },
+    "amount_rounded_to_unit": {
+      "exact+fallback": {
+        "TP": 0,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 14
+      },
+      "exact+fallback+fuzzy": {
+        "TP": 14,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 14
+      }
+    },
+    "date_shifted_one_day": {
+      "exact+fallback": {
+        "TP": 0,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 14
+      },
+      "exact+fallback+fuzzy": {
+        "TP": 14,
+        "FP": 0,
+        "n": 14,
+        "perturbed": 14
+      }
+    }
+  },
+  "overlap_and_repeat": {
+    "overlap_injected": 82,
+    "overlap_found": 82,
+    "overlap_labelled_overlap": 82,
+    "repeat_injected": 10,
+    "repeat_found": 10,
+    "repeat_labelled_repeat": 10,
+    "legitimate_repeats_removed": 0
+  }
+}

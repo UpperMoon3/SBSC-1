@@ -1,0 +1,11 @@
+{
+  "files_misread_on_first_row_header": 16,
+  "rows_stacked_including_non_transaction_rows": 1298,
+  "rows_retaining_lineage": 0,
+  "duplicates_surviving": 14,
+  "sign_errors_surviving_injected": 9,
+  "debits_entering_totals_as_positive": 519,
+  "rows_without_stated_currency": 243,
+  "currency_mixing_rows_aggregated": 6,
+  "defects_visible": 0
+}

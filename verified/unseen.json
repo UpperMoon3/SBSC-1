@@ -1,0 +1,89 @@
+[
+  {
+    "mutation": "renamed_amount_column",
+    "detail": "amount column renamed",
+    "new_log_entries": {
+      "UNMAPPED_MANDATORY": 1,
+      "ROW_NOT_PARSED": 41,
+      "NO_BALANCE_FIELD": 20,
+      "BALANCE_RESIDUAL": -2,
+      "DUP_CANDIDATE_REPEAT": 1,
+      "CURRENCY_NOT_STATED": 3,
+      "FOREIGN_CURRENCY_ROW": -3
+    },
+    "journal_rows_delta": 0,
+    "surfaced": true
+  },
+  {
+    "mutation": "day_month_swapped",
+    "detail": "17 dates with day and month swapped",
+    "new_log_entries": {
+      "ORDER_VIOLATION": 4
+    },
+    "journal_rows_delta": 0,
+    "surfaced": true
+  },
+  {
+    "mutation": "truncated_file",
+    "detail": "last 8 rows removed",
+    "new_log_entries": {
+      "BALANCE_RESIDUAL": 1
+    },
+    "journal_rows_delta": -8,
+    "surfaced": true
+  },
+  {
+    "mutation": "decimal_convention_flip",
+    "detail": "one amount written in the other decimal convention",
+    "new_log_entries": {
+      "BALANCE_RESIDUAL": 1
+    },
+    "journal_rows_delta": 0,
+    "surfaced": true
+  },
+  {
+    "mutation": "file_delivered_twice",
+    "detail": "F013 delivered a second time as F031",
+    "new_log_entries": {
+      "SIGN_RESIDUAL": 2,
+      "BALANCE_RESIDUAL": 2,
+      "ORDER_VIOLATION": 1,
+      "DUP_CANDIDATE_OVERLAP": 41,
+      "CURRENCY_NOT_STATED": 40,
+      "FOREIGN_CURRENCY_ROW": 1
+    },
+    "journal_rows_delta": 41,
+    "surfaced": true
+  },
+  {
+    "mutation": "unknown_direction_token",
+    "detail": "direction token REV (reversal)",
+    "new_log_entries": {
+      "ROW_NOT_PARSED": 1,
+      "NO_BALANCE_FIELD": 1
+    },
+    "journal_rows_delta": 0,
+    "surfaced": true
+  },
+  {
+    "mutation": "row_shifted_one_column",
+    "detail": "one row shifted right from the amount column",
+    "new_log_entries": {
+      "ROW_NOT_PARSED": 1,
+      "NO_BALANCE_FIELD": 2,
+      "UNMAPPED_VALUE": 1,
+      "FOREIGN_CURRENCY_ROW": 1
+    },
+    "journal_rows_delta": 0,
+    "surfaced": true
+  },
+  {
+    "mutation": "currency_code_lowercase",
+    "detail": "currency written as 'kzt'",
+    "new_log_entries": {
+      "FOREIGN_CURRENCY_ROW": 1
+    },
+    "journal_rows_delta": 0,
+    "surfaced": true
+  }
+]

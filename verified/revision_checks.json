@@ -1,0 +1,30 @@
+{
+  "observed_channel_only_records": 1,
+  "alternative_annotation_micro": {
+    "injected": 56,
+    "TP": 54,
+    "FP": 1,
+    "FN": 2,
+    "P": 0.9818181818181818,
+    "R": 0.9642857142857143,
+    "F1": 0.972972972972973,
+    "R_CI": [
+      0.878812198166279,
+      0.9901505748544027
+    ]
+  },
+  "alternative_annotation_counterparty": {
+    "injected": 10,
+    "TP": 10,
+    "FP": 1,
+    "FN": 0,
+    "P": 0.9090909090909091,
+    "R": 1.0,
+    "F1": 0.9523809523809523,
+    "R_CI": [
+      0.7224672000430039,
+      1.0
+    ]
+  },
+  "duplicate_period_checks": "passed"
+}

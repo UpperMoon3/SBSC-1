@@ -1,0 +1,16 @@
+normalized_field,group,mandatory,distinct_labels,present,coverage_cj
+client_code,Client,yes,4,1200,1.000
+client_identifier,Client,yes,5,1200,1.000
+client_account,Client,yes,3,1200,1.000
+statement_period,Client,yes,3,1200,1.000
+operation_date,Transaction,yes,11,1200,1.000
+direction,Transaction,yes,7,1200,1.000
+amount,Transaction,yes,9,1200,1.000
+currency,Transaction,yes,5,1200,1.000
+balance_after,Transaction,no,6,959,0.799
+category,Classification,no,8,988,0.823
+subcategory,Classification,no,14,842,0.702
+counterparty_name,Counterparty,no,10,1127,0.939
+counterparty_identifier,Counterparty,no,6,694,0.578
+counterparty_account_or_channel,Counterparty,no,9,918,0.765
+counterparty_type,Counterparty,no,5,1070,0.892

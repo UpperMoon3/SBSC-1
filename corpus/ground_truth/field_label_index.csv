@@ -1,0 +1,106 @@
+normalized_field,source_column_label
+client_code,Client code
+client_code,Customer ID
+client_code,Holder ref
+client_code,Klient kodu
+client_identifier,Client identifier
+client_identifier,Customer no.
+client_identifier,Holder tax ref
+client_identifier,IIN/BIN
+client_identifier,Party ref
+client_account,Account
+client_account,Account number
+client_account,Acct.
+statement_period,Period
+statement_period,Reporting period
+statement_period,Statement period
+operation_date,Booking date
+operation_date,Date
+operation_date,Date of operation
+operation_date,Date/time
+operation_date,Dt
+operation_date,Oper. date
+operation_date,Operation date
+operation_date,Posting date
+operation_date,Trans. date
+operation_date,Transaction date
+operation_date,Value date
+direction,Debit/Credit
+direction,Direction
+direction,Dr/Cr
+direction,Flow
+direction,Operation type
+direction,Sign
+direction,Type
+amount,Amount
+amount,"Amount, total"
+amount,Amt
+amount,Operation amount
+amount,Sum
+amount,Sum of operation
+amount,Transaction amount
+amount,Turnover
+amount,Value
+currency,CCY
+currency,Curr.
+currency,Currency
+currency,Currency code
+currency,Val.
+balance_after,Bal.
+balance_after,Balance
+balance_after,Balance after
+balance_after,Balance after operation
+balance_after,Closing balance
+balance_after,Running balance
+category,Cat.
+category,Category
+category,Class
+category,Classification
+category,Group
+category,Operation category
+category,Payment category
+category,Type of expense
+subcategory,Detail
+subcategory,Detail level 2
+subcategory,Detailed category
+subcategory,Item
+subcategory,Operation detail
+subcategory,Purpose group
+subcategory,Sub class
+subcategory,Sub type
+subcategory,Sub-category
+subcategory,Sub-class
+subcategory,Sub-item
+subcategory,Subcat.
+subcategory,Subcategory
+subcategory,Subgroup
+counterparty_name,Beneficiary
+counterparty_name,Contragent
+counterparty_name,Correspondent
+counterparty_name,Counterparty
+counterparty_name,Counterparty name
+counterparty_name,Name of counterparty
+counterparty_name,Partner
+counterparty_name,Payee name
+counterparty_name,Payer/Payee
+counterparty_name,Sender/Recipient
+counterparty_identifier,BIN/IIN of counterparty
+counterparty_identifier,CP identifier
+counterparty_identifier,Correspondent ref
+counterparty_identifier,Counterparty ID
+counterparty_identifier,Counterparty tax ref
+counterparty_identifier,Partner ID
+counterparty_account_or_channel,Account of counterparty
+counterparty_account_or_channel,Beneficiary account
+counterparty_account_or_channel,CP account
+counterparty_account_or_channel,Card/Channel
+counterparty_account_or_channel,Channel
+counterparty_account_or_channel,Correspondent account
+counterparty_account_or_channel,Counterparty account
+counterparty_account_or_channel,Destination
+counterparty_account_or_channel,Payment channel
+counterparty_type,CP type
+counterparty_type,Counterparty type
+counterparty_type,Entity type
+counterparty_type,Kind
+counterparty_type,Partner type
